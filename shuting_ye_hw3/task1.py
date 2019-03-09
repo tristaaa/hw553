@@ -4,8 +4,6 @@
 import sys
 from pyspark import SparkContext
 from datetime import datetime
-<<<<<<< HEAD
-from itertools import combinations
 
 def myhash1(x,a,b,m):
     """f(x)= (ax + b) % m"""
@@ -15,34 +13,32 @@ def myhash2(x,a,b,p,m):
     """f(x) = ((ax + b) % p) % m"""
     return ((a*x+b)%p)%m 
 
-def gen_hashed_rows(x,m):
-    permutead_rows = []
-    a_grp = [2,10,14,22,]
-    b_grp = 
-    p_grp = [3]
-
-    hv_grp = 
+def minhash(arr,m):
+    a_grp = [17,107,387,691,879,1559,2783] #7
+    b_grp = range(337,7733,1256) #6
+    p_grp = [97,347,541,773,919] #5
+    return [min([myhash2(x,a,b,p,m) for x in arr]) for a in a_grp for b in b_grp for p in p_grp]
 
 def LSH_Jaccard(rdd):
     preparedRDD = rdd.filter(lambda x: 'user_id' not in x).map(lambda x:x.split(',')).persist()
-    users = preparedRDD.map(lambda x: (x[0],None)).groupByKey().keys().collect()
-    buss = preparedRDD.map(lambda x: (x[1],None)).groupByKey().keys().collect()
-    user_num = len(users)
+    userdict = dict(preparedRDD.map(lambda x: (x[0],None)).groupByKey().sortByKey().keys().zipWithIndex().collect())
+    busdict = dict(preparedRDD.map(lambda x: (x[1],None)).groupByKey().sortByKey().keys().zipWithIndex().collect())
+    user = list(userdict.keys())
+    bus = list(busdict.keys())
+    usernum = len(user) #11270
+    # busnum = len(bus)
 
-    utl_matrix = preparedRDD.map(lambda x: (buss.index(x[1], users.index(x[0])))).groupByKey().mapValues(list)
+    charmat = preparedRDD.map(lambda x: (busdict.get(x[1]), userdict.get(x[0]))).groupByKey().mapValues(list)
+    sigmat = charmat.mapValues(lambda x: minhash(x,usernum))
+
+    n = 210
+    b = 21
+    r = 10
+    sliced_sigmat = sigmat.flatMap(lambda x: [(i//r,(x[0],x[1][i:i+r])) for i in range(0,n,r)])\
+        .groupByKey().values().map(list)
 
 
 
-=======
-
-def myhash1(x):
-    """f(x)= (ax + b) % m"""
-    pass 
-
-def myhash2(x):
-    """f(x) = ((ax + b) % p) % m"""
-    pass 
->>>>>>> 889bdc29f8b1d9014a928cd1ab8a510b2414d8ad
 
 
 def task1(argv):
@@ -53,11 +49,8 @@ def task1(argv):
     start = datetime.now()
     trainRDD = sc.textFile(infile)
 
-<<<<<<< HEAD
-    candidates = LSH_Jaccard(trainRDD)
+    LSH_Jaccard(trainRDD)
 
-=======
->>>>>>> 889bdc29f8b1d9014a928cd1ab8a510b2414d8ad
     end = datetime.now()
     print('Duration:', (end-start).seconds)
 
