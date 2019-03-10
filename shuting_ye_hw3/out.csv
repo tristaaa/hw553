@@ -1,4 +1,4 @@
-business_id_1,business_id_2, similarity
+business_id_1, business_id_2, similarity
 -8O4kt8AIRhM3OUxt-pWLg,_p64KqqRmPwGKhZ-xZwhtg,0.5
 -A5jntJgFglQ6zwAmOiOMw,cTqIuG-fvlQQL0OWzsFdig,0.5
 -Jhlh8Scjy669NdtCfKSSg,o5Mofj5KJkYAMs_fhxftpg,0.5
@@ -13,6 +13,7 @@ business_id_1,business_id_2, similarity
 -ePLgQ_afOTW1STxD-2RIA,fBU5QssrXMXPbJWD08o9zg,0.5
 -fn65iT4z-nh1Ybfyajxng,9BQGpsIRhs9cRHuGh9xuJw,0.5
 -i3dOjumvOw-52aGXU1xDg,6nMYROXu0VX4Ytpdsfi3XA,0.5
+-ml57G52t4mQpYRHe54HWQ,Nm9xRoLxn4a_q4XlVAJfSg,0.5
 06X34OSshQJPDiyUDHtS0A,or4yipilbCkKIFnF1RP5Ow,0.5
 06X34OSshQJPDiyUDHtS0A,rsoxvO7ku3fZdhxAw739bQ,0.5
 0BOdyChBbhGjQXRWZtDscQ,uocjMsMLvB9o_0nIRKIR6w,1.0
@@ -20,7 +21,9 @@ business_id_1,business_id_2, similarity
 0JoteSDMdGJSgYzk60vSdQ,NjypbHnZG6HjNQVDVQ_iYA,0.5
 0Lq-MK2LwhntBCF7G2t71w,WvcUKsNMERSP_dPkgsq9ZA,0.5
 0OOmvIS1Tb5ccYOCvq4Yeg,NKpwKdjEG8nL1rI60aYHmg,0.5
+0OOmvIS1Tb5ccYOCvq4Yeg,lnU-G15oaYWwqqbUXj9JEA,0.5
 0PenhUhRbw2xd_suA68IjA,7jKDOB9b_nijq0-djwyUTw,0.5
+0PenhUhRbw2xd_suA68IjA,_11zD3Vo-oyd21A_t5B3BA,0.5
 0TUqA5zzBpj8izS96M_50A,PMTrNqHunjLgUfnuALUnmQ,0.5
 0WOlYhMZFtitsupK3VP_2w,dE_5fWVjBA0W4H7q2iwijQ,0.6666666666666666
 0aA5l11oXes0aS6mkN5lMQ,d_Wm9CpzIo_0T-XLfq1UcA,0.5
@@ -58,8 +61,11 @@ business_id_1,business_id_2, similarity
 2kfXHEV-bx0nTp0MzLQgSA,eNfSygNzzmwR33QXpfC-Qg,0.5
 2pbOSrbB5AtQIa240AXNvQ,pVLZQRs67CF4gZCEYCe_3Q,0.5
 2qIZlW8YSLL8a7I6KkJdHQ,btoBhgcY7vtvQ2M0itdTBQ,0.5
+30fH0eHUXorWSR2-C4PuiA,DPpi9r4FGuR6WfeqQKL4Nw,0.5
+33hBdrw45g9OB_uS-802Lw,Erf_MwkL0Gls3tCJvz41-A,0.5
 37_fNrTNrqYGJnwdqtXQ9w,azJAJh8oivpsU9HzlLS6EA,0.5
 3A9blBRRHiO5HPr0nH_YNg,i-LDatuEXFN3EDZK1sgllQ,0.5
+3B74iILT_W1ptfQeW7pIYQ,KGpsB2dsdkxl8SGVUlJbZw,0.5
 3B74iILT_W1ptfQeW7pIYQ,bkh5o6bCzDCovSkRYBsU1w,0.5
 3CI95LMvt4u1xqEWq6CbnQ,Tje8uY1C4RMUPXcw4dsScQ,0.5
 3IJ7MtMDCe5_vPGNpquIeA,LCzyOZMRyB6tKE6bPeWeeQ,1.0
@@ -78,6 +84,7 @@ business_id_1,business_id_2, similarity
 4-0ozduHY8Ag6cwXMl8UAQ,wbNWiuY5IDbvouNQAZsS-Q,0.5
 4OjdqmThsVRglRccfqDAWQ,Kkh-LUn5p4ZmF1Bg4X9sxg,0.5
 4OjdqmThsVRglRccfqDAWQ,SdZ05lwYsXH4o03Tp_mH8g,0.5
+4OjdqmThsVRglRccfqDAWQ,TORYrU3gRwjncwQ0UOLGrg,0.5
 4OjdqmThsVRglRccfqDAWQ,XiQ9tKLLEPpDPlAUu40jrg,0.5
 4OjdqmThsVRglRccfqDAWQ,eV7eaUWfe7LpmNHIaNvYZg,0.5
 4XGjbI2Ggi-kdgt9eZR83w,H8mq-5oLkF9jlfyYi3vvOw,0.6
@@ -94,6 +101,7 @@ business_id_1,business_id_2, similarity
 5J6uI0fpUfIgHe1V_UfcZg,8VLDDOtJmp5pPiYokIlRfQ,0.5
 5UNsySfBLt1zf7iCurXXBA,9eXubYXgL7Chi4ZLuBBOKQ,1.0
 5UNsySfBLt1zf7iCurXXBA,D8whLHsJ2f_tM3Y2lJgMOg,0.5
+5_5AT_uw_akxMIu_8LLhew,AI-LZ6BgPgChSpRGoVJW2w,0.5
 5_5AT_uw_akxMIu_8LLhew,NUGa_UvqPCmq7G2Qm-AByQ,0.5
 5_5AT_uw_akxMIu_8LLhew,yFKNTMyCQZ92M91A_yavhw,0.5
 5lD49ZF32TF55-msaKPjEg,BEWCJ_RCjV09UXZNrOLCpw,0.5
@@ -123,6 +131,7 @@ business_id_1,business_id_2, similarity
 6zup5PwUm8dHlp0s2qxAbg,uQdk6xm0TE4qji48yysRDA,0.5
 744U45t4T97Q-0wqrsmKog,Qa3CAciWwIUXM-KzwTv4Wg,0.5
 74PuNP7egqbaloqDecGsrA,cfMqHwJc4qgdIL6oew9EJQ,0.5
+7Dwo13ZxVBKkBuRhYEBMiw,CuyHam2xMGNrGjaToZjcig,0.5
 7FFlMoNoIW5W3KgCYqknmQ,Jo5G_-AN2S1Qv6ngeF79aw,0.5
 7LLU_dpe7iN97nJzYmTvjQ,COqLTo3bb1fuMIg2_fA6Fw,0.5
 7LLU_dpe7iN97nJzYmTvjQ,G59Wxm8eicbgOBxdZhxhVQ,1.0
@@ -133,6 +142,7 @@ business_id_1,business_id_2, similarity
 7fd6f-fSS9pJrJ4eE1oY7w,fyClLpkq6opjXiWMJoLfFw,0.5
 7h5JUE9bimZduqjzFQF2uQ,ySbmtuU0n0JwDODicz6Dww,0.5
 7jKDOB9b_nijq0-djwyUTw,oYV7mtazpc8LDGMWmbU1Jw,0.5
+7rf7j0WPx7kYZj5GAXKS3g,9sDuZJ5eMwS8Xdm9wLNIOg,0.5
 7rf7j0WPx7kYZj5GAXKS3g,n_EUCiFdOmS0tnld-doN2g,0.5
 7s39xlfRI4AJqOkjexPRMA,aq5t70LUvN3KdUdYzdhd2Q,1.0
 7siEeRGqAJ730IkwAtcWAQ,pKUFmHLUn1bBVKeEOePgRQ,0.5
@@ -160,14 +170,19 @@ business_id_1,business_id_2, similarity
 8v66rFpXa87u2jRGOn8ZfA,pFPryJ4XEzuiBnaUu5LINg,1.0
 9-eAUaJMBhsO2uRt5sgGdw,ZL6BK8wweb-8ncJ7kFIG-A,0.5
 9BQGpsIRhs9cRHuGh9xuJw,l_kfIryIyF_hcQsVxtmGMA,0.6
+9SJ5sTileHeLXVMJrQiEDQ,OyBStpjF5e_iRCMXflFasQ,0.5
 9V4AGrJphOIw2RC1UoPPRw,SvxSoyZn0WW0c7bFLIYfMA,1.0
+9eFrFvgUag_jw3mTr1Oksw,zxzG2WLlxcxGyTmGtL5Bsw,0.5
 9eXubYXgL7Chi4ZLuBBOKQ,D8whLHsJ2f_tM3Y2lJgMOg,0.5
+9sDuZJ5eMwS8Xdm9wLNIOg,ujNMgbk7n6Z0dtCxZkJgHQ,0.5
 AC69u-cjLnkLe6SB7vv9SQ,gvXwV7bGB_qWuHS05x1FAg,0.5
 AC69u-cjLnkLe6SB7vv9SQ,q0Zmv8G9KpfgFWLiqNeFpg,0.5
 AC69u-cjLnkLe6SB7vv9SQ,zRth6wH1D21hrpUdCc9Vkw,0.5
+AFaUDCTQ8LC33Nfmb_KWhg,_PKa6Dj06Q2AHKGkpJ7GnA,0.5
 APTiouqg0vmMznY_UoJ6MA,Hooe-5-Drf63HI9Pj6dA5w,0.5
 APTiouqg0vmMznY_UoJ6MA,bp5HXaxxXW672PNEjR1T_Q,0.5
 AXb5gCwqHl-_v6ZIMb1mXQ,p4db4wsINzJmV3ZbCZZoVA,0.5
+Ah4i15g8Ow_zphzcpulTxQ,aANR9KZfeCMVF6kMls58Sw,0.5
 Aru8Cpu9YKvQzZcbgs7rjQ,ozn76OaW1HA5mJDgQLg1cA,1.0
 B7UeQVtXDcH8EXTc8p_M1Q,BLGo7Hnn6080YJHJAtifOw,0.6666666666666666
 B9dxWJG-8Sp2hbGl8QjUOw,p6zSxr2nnRzJJ93LthQftg,1.0
@@ -178,6 +193,7 @@ BV5aiE5jxaUyCbiYpUEF_w,UirWbEXBYqw9cE63Ph-Png,0.5
 BV5aiE5jxaUyCbiYpUEF_w,WEs9MN1M6tixwEz844jCUw,1.0
 BV5aiE5jxaUyCbiYpUEF_w,hEtb2D81MtRfKuAd1FdV6w,0.5
 BV5aiE5jxaUyCbiYpUEF_w,j6MtKpKdqZC2wXnQetGBIQ,1.0
+BkFO_ynqOVeLQHuye_9Fbg,T7o7Q_WqKDkH5_FjjgMxqw,0.5
 BkqM_Ou82P3gn_PTxEN3pw,hMgIF04rrJ7oB1lGIpFt5w,0.5
 Bmv3nHS2nfjzhkDQMsLAWQ,m9eF1rD6Cnwn69z45_cBLA,0.5
 C-JdFdmF130R53GOJRX3Zg,Lm_Oqcg0t04ok7upUSO27A,0.5
@@ -192,6 +208,8 @@ CKqHfvcqx73-Uz0xGMHL6Q,u7jiuYiz-zVwsh0TGRHUIg,1.0
 COqLTo3bb1fuMIg2_fA6Fw,G59Wxm8eicbgOBxdZhxhVQ,0.5
 COqLTo3bb1fuMIg2_fA6Fw,i95z3PicJ4p_oAYXBioznA,0.5
 CSn2-XpArLLYeZ_k2BKzrg,CrIWqmuO2uQWwl3z11K_BA,0.5
+CWh5Jvne98_jz0GO7hbzHw,_cPKhspnmpEEVXYKO3l-Sg,0.5
+CaDTCay6IFMGsQ1dVJaw8A,mr5Ds305PzhExis8MZgziw,0.5
 CgF0aw5JgUnpn4BrieN5QA,vt7iOHC_O7NO5-88P7SXcw,0.5
 CpqlSQEt7eLl8GVmGMlXLA,V57p_HiFzTokk_7nRO4weA,0.5
 CpqlSQEt7eLl8GVmGMlXLA,rPeHN1B8FyYzI7GzVFam3w,0.5
@@ -229,6 +247,7 @@ ELxiPon1qYylk1TUdidpJA,XHdlhg3GyMMY9qS3brmmgQ,0.5
 ESZM2J7WJST2f6_NjII43g,EodJxsEW5prSRB1hju5KoQ,0.5
 EUtPSmcxmdhX7eGpi1T-dA,aviDjlixlwW2FnK8V1dEnQ,1.0
 EUtPSmcxmdhX7eGpi1T-dA,pOAj4Yg5siEGTwxvlYccLw,1.0
+EfmMnFXJnJe9Mfbl49qn7Q,hzAOz6E9gpQf6i6ciHmIPw,0.5
 Ej0sTcCOsvjsamtvdeGlOA,JpBNnAZE3DDQHMp2mEC1Kw,1.0
 EsE8KTPqAJ2MjJdmuAifRw,q5WWnhtprzfpHPYt1RVxHQ,0.5
 F80J7YybxcmwHpPkbEsd-g,dN7QHtYsN8n77z-r9zjzsA,0.5
@@ -238,6 +257,7 @@ F91geKdV8XsF9Cze8Zm8yg,hvridAom9cjx4mfFYasVrA,0.5
 FFy9dIwiajcxA3gaDn6AeA,xm7-97_FjTOChQPUr0AfVA,0.5
 FGRw7knltfK9q4Z6_hev6w,XikzLI3Zm02WR9a2xO5C-w,0.5
 FGRw7knltfK9q4Z6_hev6w,ow9r_DRGqgpiNUr4SXBHrw,0.5
+FUJGBwxflIoKiCRK1AdTgA,RWwvuTbnf3DleUSiFbUscg,0.5
 FVLveNsa_rpmJbv5k8onfw,sYQ5wGRg4gX2iWv6swG6Ng,0.5
 FdAFfmeqaaY-1463SyTwGQ,zuu87Wx0Sv2KCUzY_wGSKQ,0.5
 FlSz_R7LkZE-eqNDuQ_CjQ,W0WzUvhJpldw17kDtCQk-g,0.5
@@ -246,6 +266,7 @@ FndkIvEO5vjb0s8cRpzsKg,tzLBPCVz6uB7vWgDTU6Ujw,1.0
 FvJtjO5nuIy5erGbkJpJXw,TsCq0UqOrKJ_ZJx7KKwKkA,0.5
 FyfXTZpQPewhgI7zU5pVtA,JI88Hdn6TM6rpYIUEk_xwA,0.5
 FyfXTZpQPewhgI7zU5pVtA,Shga7lyRNRFQWoFqTPUQCw,1.0
+FysNvkBMtHaJAwnarboMNQ,Lycld8xZmrgbRJD4qDxgGA,0.5
 FzzKlIzJSagomPPisoKS5w,j8DRGteeJ6iBy918RWiEog,0.5
 G4-SMaqwXp1tkKuZfO5lAw,_GQtY4e4mwQlm-f3DwCIDw,0.5
 G4-SMaqwXp1tkKuZfO5lAw,bKkg_SW-lWU2XDNVodksOg,1.0
@@ -258,8 +279,11 @@ GkfO4Lc1osCKItP4lWaVzg,nbNbf1SWM4JYSQnM-Z8ZLQ,0.5
 GoYN0XMH_ETxzMlD6NPczQ,oRmCI0p2mvlrGwilJloFTQ,0.5
 GxBcnU3ONa9htY5gPd72BQ,y3FiZeYWQ9umQpmbhKqFOA,0.5
 H9yu7m92Ajdamb5yflozWA,L75ccfS0XRtIRA4399U8Pg,0.5
+HONwpNQ2fmwMTOIZu0VI1A,TG6m1XuLFgbYRGo-4CD9Hg,0.5
 HTtzkGwQ1jPP2m4os-mAyA,tpGXuR5HYhzpCYtzqkxGCA,0.5
+HUMdEqtlPF70AqyZmiyAhA,Qzp0PWFF51Yj_cXE5fepmA,0.5
 HW8iARU2n2wOkezDWKit_Q,hFay_o8K1YfqFiMFoSPv5Q,0.5
+HYm_XUwKk_s-gCC0kdERDA,vEsAPc0fEDP1YPeSQanxfQ,0.5
 H_-rsHirupzU4ujVm9UxsQ,uQ4fU_S72jTAN-TglNF8QA,1.0
 Hb72oiMn7DmE5Ag5px01Fg,V3axGcLhzheRP8VBvS13vQ,0.5
 Hgcj-_rcTfHIEbHMUpDs4w,nZvjGGWpzkPOf0ypOezoZg,0.5
@@ -277,7 +301,9 @@ I-TOun_YsoMBVM9QWW8C1g,XbG4OgFoaSIxQxVRhTxU2w,0.5
 I4k8ZjZE1ugtC10g7vyRpQ,QDYOU5G_X0PdbN-_WzxBiQ,0.5
 ICimDC0cbPBMfeQd88IicQ,RHhjgjO1gVmO_xGCUYqLwA,0.5
 ICimDC0cbPBMfeQd88IicQ,jtvy90-8KNih9-LanDTiOg,1.0
+IKYlLupfcXakHr8uzyVsuA,jGajKCm6-urgLQeNyeL-FA,0.5
 IKYlLupfcXakHr8uzyVsuA,lUM741nAWb4WL-pGiqo7Bw,0.5
+IKYlLupfcXakHr8uzyVsuA,xBWTtwUd3tFCX5vobs2p7A,0.5
 IOxRbnv2YnLtErYY3TrU3A,WEs9MN1M6tixwEz844jCUw,0.5
 IOxRbnv2YnLtErYY3TrU3A,WvkxYyA1fXDPDyqIVn8zBQ,0.5
 IOxRbnv2YnLtErYY3TrU3A,j6MtKpKdqZC2wXnQetGBIQ,0.5
@@ -298,6 +324,9 @@ JfC7ufsnkzAwNFfoIcAHNw,Q1l-m9N_g-dJ6WGFoOsiCw,0.5
 JgtawtDX0Oie8ZXz2NfjYQ,PJOIEJgVVjh9KDBlVwjzQw,0.5
 JkncPZ1jFi0_n23Ptl8jGQ,R6CvLpMoDEGQ7QApfVUvyw,0.5
 JmYYGu_FIdYVvNXRsucAvQ,PgMt7JtwUB-QUoRZAbwUng,1.0
+JmYYGu_FIdYVvNXRsucAvQ,a9KUNRphQVLeCsC3RAEQPA,0.5
+JmYYGu_FIdYVvNXRsucAvQ,zrtRx2bm55zVeYIpzLLm3w,0.5
+Jo5G_-AN2S1Qv6ngeF79aw,PCugqia4CsE9krMJyJ8UXw,0.5
 JtrOIfm4pIBEZgRIlwI_Jw,WvunDFSs2hJrPHVFqB6Y1w,0.5
 JtrOIfm4pIBEZgRIlwI_Jw,t7b_86s_Q__P35H9NXedhw,0.5
 K2lscpx0S9wpqNz0s9AIwQ,iO86eCaZJBHqi1sZ1ELk6A,1.0
@@ -310,11 +339,14 @@ KmOl0a5UhaKAK8S_K7HCTA,or4yipilbCkKIFnF1RP5Ow,0.5
 KokCcoahHa2ajm-C_7bJrw,XikzLI3Zm02WR9a2xO5C-w,0.5
 KokCcoahHa2ajm-C_7bJrw,nt4EQk5UGYrfKecua941FQ,0.5
 KqhvtfJITeZDVubTnMVAlg,hBOLo0Zg_3hlQ-z-3FkF1w,1.0
+KqhvtfJITeZDVubTnMVAlg,yrC2AxuY3wXNodbuClLRGg,0.5
 Kr4HUtvJ8zRjCqbCJRSSSQ,lZYsctpn-T7CXKovi7RbSA,0.5
 Kr5k9eEm-2dGBGGlF2HvaQ,hamdxLntv7uASAmOSKBLig,0.5
 KsQaRX0MdKULW2nMj5NoLA,Xz2-hU3EYTgxGT3AOqJp5g,0.5
 Kws-gPJjF4RxLxJE_2BjKQ,o5Mofj5KJkYAMs_fhxftpg,0.5
 Kws-gPJjF4RxLxJE_2BjKQ,xistlMeIIjG21z2SaWvfVQ,1.0
+Kx0MUrNQ737s-VVElk6Vig,t7-AuzRrUUWrxp1GNrIDtg,0.5
+Kx0MUrNQ737s-VVElk6Vig,uPtSHqkT9aNrXNJdVBoq9Q,0.5
 L5AFqx596wakqPkzqfRzTw,TPwDHfgelf89BDodmVJB6Q,0.5
 L5dX210yl63PNOfZJHgUEg,xeIIyOCTpeKUZx5cV9gTkQ,0.5
 LBWpLNSLTKZMrLWmaur42g,_FP4CBz5D8V4_3dtex9_iw,0.5
@@ -363,12 +395,15 @@ PJOIEJgVVjh9KDBlVwjzQw,REamBh8h57vu2NDtUNq8EQ,0.5
 PJ_a2Ba2ZtztebTC9WakWQ,zGlwUC9fSmpaWT1i60saDw,0.5
 PL9xKgFL9FB8wDQ9AKrm4g,R9TTzn-Q31vSeFywvVZoTw,1.0
 PL9xKgFL9FB8wDQ9AKrm4g,XiQ9tKLLEPpDPlAUu40jrg,0.5
+PNaEe5K_wpSWF8kqwUYMgw,ta5soWHhQeNfkbw5kBhFjA,0.5
 PVe9mHxZTmZ_BrIP3URktg,_yVbVcc5QqtQk0vvQ-T2oA,1.0
 PcfFrGL6NgS0gqneNE8R0A,Pcij9Zvllmj-oge8N-uSzg,0.5
 PcfFrGL6NgS0gqneNE8R0A,hqWNpbCEzt7EzUeWkDqjBA,0.5
 Pcij9Zvllmj-oge8N-uSzg,YJ6co6ywD4OeftiVIiJMKQ,0.5
 Pcij9Zvllmj-oge8N-uSzg,hqWNpbCEzt7EzUeWkDqjBA,1.0
 Pcij9Zvllmj-oge8N-uSzg,l2kzkT3iw10kIq2nIWRbgQ,0.5
+PgMt7JtwUB-QUoRZAbwUng,a9KUNRphQVLeCsC3RAEQPA,0.5
+PgMt7JtwUB-QUoRZAbwUng,zrtRx2bm55zVeYIpzLLm3w,0.5
 PvbUrJ7ZM-h1HQp9RoicIg,Rkm9dnwVK376jSOIytmhHg,0.5
 Q3CQumXTxIPC0wecw3-C_Q,VdWMXE1mw1-XeAYlq2T4xQ,0.5
 QS7_BPmaBNvznOMhcVBemg,tzLBPCVz6uB7vWgDTU6Ujw,0.5
@@ -409,6 +444,7 @@ TG6m1XuLFgbYRGo-4CD9Hg,hnMdGajgg2083rWrxDb50g,0.5
 TORYrU3gRwjncwQ0UOLGrg,UTzysylxduapn0GmlVa3Ew,0.5
 Teo0RZJg-zTFiH61JP3ZGA,nFwhNevX1CuFp04Qlcpl6g,0.5
 TjFD20gLdpHoqhnPdyzMnw,li5_YJhPbd4NKym2ThmY7Q,0.5
+TlFowSzpX0k-urEBJlT8UA,_faNGF9a6X9Us1k-9XFsfQ,0.5
 Ts06pljQ5-XMtwTmzjCkFA,XNqfEq_CVYltOfg4aUMQrw,0.5
 TsWkDnmXjvXDtSeuSJzwyQ,UaL6yRGSv9fYCyn2DJLu8w,0.5
 TsWkDnmXjvXDtSeuSJzwyQ,peLVrfhLlWf_vVCFwN_Ghw,0.5
@@ -418,6 +454,7 @@ UOK4ARjGtOtfYZSIm57ROw,_0d-uqjdfeL23s2xgje4Pw,0.6666666666666666
 UOK4ARjGtOtfYZSIm57ROw,_HhZV5S7sypfcE2AcEkL4w,0.5
 UOK4ARjGtOtfYZSIm57ROw,q5O7SDxC6GpThfEdOYKw4A,0.5
 URCmJ-uP_2FyHrShsRPycA,kTTpBCzK-xeI3yESKIFuUg,1.0
+UbycymnVPeXDpKCgMssZhA,hntnEJN_wGWG7KQjZ4aVLQ,0.5
 UirWbEXBYqw9cE63Ph-Png,WEs9MN1M6tixwEz844jCUw,0.5
 UirWbEXBYqw9cE63Ph-Png,j6MtKpKdqZC2wXnQetGBIQ,0.5
 UjNhSbSZl0TyDuDLSpo12Q,db46vGD3SOexBVY8bNLWBQ,1.0
@@ -453,6 +490,7 @@ XxvyLuorygB8u0XBIDwKjQ,rPeHN1B8FyYzI7GzVFam3w,0.5
 XxvyLuorygB8u0XBIDwKjQ,ugIDAeQPfKs9GVBaPUSBkA,0.5
 YJ6co6ywD4OeftiVIiJMKQ,hqWNpbCEzt7EzUeWkDqjBA,0.5
 YTmnXQxBuNwU_L3uQGH2-A,yDk_gqG_h24zqu4dGp6Mkw,0.5
+YXwYUDFAQD1sNm2c_5rT7g,_JerBc7MgOit4xrZvuYIvA,0.5
 Z7r_FJXEyfyvVsyv2y7gFQ,lrrUyxzlvqp-niBEj6_6dg,0.5
 Z7r_FJXEyfyvVsyv2y7gFQ,tjM2CZqRJ17oFapBTmGovw,0.5
 ZGIkQIh3KTLM1yOCNpvU5Q,aELkI0mfF1EbQo_m44vEKg,0.5
@@ -471,6 +509,7 @@ _0N_Ztu6nOI7QmhIUNsqVQ,fwznZTqJ4bVOfMCOniHCxg,0.5
 _AqONUa91mBuuxS4bgSRBA,v2R_QhaLPvxKbdpJp8lPdA,1.0
 _C-KsbyON91RH6cWKUfT5g,mX9wWpoz1x6-snTvxlIOOg,1.0
 _GQtY4e4mwQlm-f3DwCIDw,bKkg_SW-lWU2XDNVodksOg,0.5
+_HhZV5S7sypfcE2AcEkL4w,dutu1EkjTaTiLmBIkOAeqw,0.5
 _HhZV5S7sypfcE2AcEkL4w,p2VzdhjSjLMO9198mPEVUA,0.5
 _HhZV5S7sypfcE2AcEkL4w,q5O7SDxC6GpThfEdOYKw4A,1.0
 _JerBc7MgOit4xrZvuYIvA,pKUFmHLUn1bBVKeEOePgRQ,0.5
@@ -493,13 +532,18 @@ br19XpHNLqMuMp1kObb7pg,hU-2Uu8el-PgcE6EXeg3bA,1.0
 cOqd9ou3uf-1k3OWFo-_CQ,rPeHN1B8FyYzI7GzVFam3w,0.5
 cOqd9ou3uf-1k3OWFo-_CQ,ugIDAeQPfKs9GVBaPUSBkA,0.5
 cQvH2Dnj3yf7zafC5a85ow,hD03alkIFsIyoN2rszpeOw,0.5
+cS5eXA7BW7I2IxLw-sx9YQ,hbC_iLadZFYVLLO7crmi-A,0.5
 cTPQYGWHhR0v-t5fKU_mWg,kTvZKyQ28vWeYVKAyq5XyA,1.0
 cmEM2YwTaMoREvxUksco6A,uI85wwAw_SQXyObv-cwfkA,1.0
 cmEM2YwTaMoREvxUksco6A,vxVVBGJCrd1F5ELKpFc-Mw,0.5
 cn9mCAnqN125EDG-FLP7qg,qUcdv_IREg2KnhqZZB96ug,0.5
+d_3T8hgY7PAKGW-t4LCHvQ,eAxG2aLSnxtgBYZGSm0njQ,0.5
 d_3T8hgY7PAKGW-t4LCHvQ,r8h3_Chc7davvVelcvV-NQ,1.0
 d_3T8hgY7PAKGW-t4LCHvQ,yDfOSuljYJdX9zftLbTbxw,1.0
+dutu1EkjTaTiLmBIkOAeqw,q5O7SDxC6GpThfEdOYKw4A,0.5
 e0kSnKyN5d5nJ4nwnkX3YQ,tMKblwX0CeCDZbCz6ruyPg,0.5
+eAxG2aLSnxtgBYZGSm0njQ,r8h3_Chc7davvVelcvV-NQ,0.5
+eAxG2aLSnxtgBYZGSm0njQ,yDfOSuljYJdX9zftLbTbxw,0.5
 eNfSygNzzmwR33QXpfC-Qg,tvhcshPITUGa_ffUlU-BHA,0.5
 ede2MkaohtkWU4GtrgdfsQ,zm8u9z2KCwEkNiCD59UQ3Q,0.6666666666666666
 ep3-l1UJJMkKHLLtrh1Uvg,gtqtnzgzDCWVFi298dIvow,0.5
@@ -530,7 +574,9 @@ guKEIlmotSbtbi500bQNXA,ue57ImD1-0968ttuTGRvaA,0.5
 gwOkvJJcIewDF7aZh_VMBQ,v7euq6W4LEKFtYnlYhh7Vw,0.5
 h67mMWvVdHQ0J_maNcXsXg,jGajKCm6-urgLQeNyeL-FA,0.5
 h67mMWvVdHQ0J_maNcXsXg,xBWTtwUd3tFCX5vobs2p7A,0.5
+hBOLo0Zg_3hlQ-z-3FkF1w,yrC2AxuY3wXNodbuClLRGg,0.5
 hEtb2D81MtRfKuAd1FdV6w,j6MtKpKdqZC2wXnQetGBIQ,0.5
+hQXN51Oq0Oje3Ck9nwsGLw,noZNxJF_q9V3Iox5qG2bVA,0.5
 hamdxLntv7uASAmOSKBLig,u9zsTjkceESEEbncLBChaQ,0.5
 hamdxLntv7uASAmOSKBLig,wbNWiuY5IDbvouNQAZsS-Q,0.5
 hf2oiNqYYWoF2-iNYSnOMg,odYVVzTk1OGRMtp7P0n7zQ,0.5
@@ -539,6 +585,7 @@ hqWNpbCEzt7EzUeWkDqjBA,l2kzkT3iw10kIq2nIWRbgQ,0.5
 hzPtb7pO7DB4Kext89w9Rw,xHDW6S2GnXYX8hK74EE0Ag,0.5
 i-LDatuEXFN3EDZK1sgllQ,qQk-0rev8PFpqzejx07QJw,0.5
 i-LDatuEXFN3EDZK1sgllQ,vYPnPOlfZ6BcncPccVFLHQ,0.5
+iGOy8Tc9zeewn5BW2svW-g,iqU-pcyvNJjmy4pEN2Nepw,0.5
 iIaC8f8QgaWTYoFSZYasrw,z6b088Cu7IB2Fa237XNYxA,1.0
 jGajKCm6-urgLQeNyeL-FA,xBWTtwUd3tFCX5vobs2p7A,1.0
 jH6h0yH0EMqq3h-8T0q-ig,rSAV1CDpqkNKumXyUx1BAA,0.5
@@ -592,6 +639,7 @@ uzpdcxvlKx5BuoWU3NRHbA,xeN57OX3lJfY96nfEx63fg,1.0
 vCopginiBsz1STNhQPb8XA,yUB8CDsYMES3cN-xcHXCkQ,0.5555555555555556
 vVdY2qDO7dkUrU8LXYZ1uA,zrtRx2bm55zVeYIpzLLm3w,0.6666666666666666
 vadTcg3fvqiXj0Bh9Lv3zg,wvV-mcM-Djgv6Z29rnwlVg,0.5
+w9CWjQW-tiAdWSPBzmXLvA,xD0qY7CyI2PCcr0lvVp9-A,0.5
 wfsCX4M-uf_l-hQA1sSWyQ,yFKNTMyCQZ92M91A_yavhw,0.5
 wpDJUu8Ty_eyQJENUy7fIw,z3hD4GX5gSJtuqNhN-o2cg,0.5
 wtE6O9u1ni81T_TW27uYgQ,zi0HXFQuzMeozBwQ4iWs7w,0.5
